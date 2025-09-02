@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1756777180173",
+    "nome": "arthur",
+    "email": "teste@gmail.com",
+    "telefone": "(47) 12345-6789",
+    "resumo": "sim",
+    "endereco": {
+      "cep": "12345-678",
+      "rua": "teste",
+      "numero": "123",
+      "bairro": "velha",
+      "cidade": "blumenau",
+      "estado": "sc"
+    },
+    "experiencia": [],
+    "formacao": [],
+    "idiomas": []
+  }
+]
