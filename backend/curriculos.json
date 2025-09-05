@@ -1,20 +1,40 @@
 [
   {
-    "id": "1756777180173",
-    "nome": "arthur",
-    "email": "teste@gmail.com",
-    "telefone": "(47) 12345-6789",
-    "resumo": "sim",
+    "id": "1757028022265",
+    "nome": "teste 4",
+    "email": "teste@aaaa.com",
+    "telefone": "(47) 99112-4068",
+    "resumo": "Sla",
     "endereco": {
       "cep": "12345-678",
-      "rua": "teste",
-      "numero": "123",
+      "rua": "sla",
+      "numero": "1234",
       "bairro": "velha",
       "cidade": "blumenau",
       "estado": "sc"
     },
-    "experiencia": [],
-    "formacao": [],
-    "idiomas": []
+    "experiencia": [
+      {
+        "empresa": "Sla",
+        "cargo": "Matador de tempo",
+        "dataInicio": "2025-01",
+        "dataFim": "2025-03",
+        "descricao": "Matava tempo"
+      }
+    ],
+    "formacao": [
+      {
+        "instituicao": "Sim",
+        "curso": "Soldagem",
+        "anoConclusao": "2025",
+        "grau": "Técnico"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
   }
 ]
